@@ -1,0 +1,2 @@
+# makeNju
+discord bot
